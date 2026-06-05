@@ -1,0 +1,22 @@
+{
+    "id": "com.deskit.random-numbers-generator",
+    "name": "random-numbers-generator",
+    "displayName": {
+        "en": "Random Numbers Generator",
+        "zh-CN": "随机数生成器"
+    },
+    "description": {
+        "en": "Generate random integers by range and count, with optional unique mode.",
+        "zh-CN": "按范围和数量生成随机整数，并支持去重模式。"
+    },
+    "author": "DesKit",
+    "homepage": "https://github.com/Apprentice-Geo/deskit-plugin-random-numbers-generator",
+    "version": "0.1.0",
+    "downloadUrl": "https://github.com/Apprentice-Geo/deskit-plugin-random-numbers-generator/releases/download/v0.1.0/com.deskit.random-numbers-generator-0.1.0.deskit",
+    "sha256": "1abf29f9de02fcbdbb02ec51fd59f2e72f08fedfe3b0006b9fb440c69c90816c",
+    "deskitEngine": "^0.2.0",
+    "icon": "lucide:dices",
+    "categories": [
+        "utilities"
+    ]
+}
