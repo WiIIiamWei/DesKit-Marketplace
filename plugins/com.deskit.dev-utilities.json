@@ -1,0 +1,20 @@
+{
+  "id": "com.deskit.dev-utilities",
+  "name": "dev-utilities",
+  "displayName": {
+    "en": "Dev Utilities",
+    "zh-CN": "开发者工具箱"
+  },
+  "description": {
+    "en": "Format JSON, encode and decode URL/Base64, decode JWTs, generate UUIDs, convert text cases, and convert colors from the launcher.",
+    "zh-CN": "在启动器中格式化 JSON、URL/Base64 编解码、解码 JWT、生成 UUID、转换大小写和颜色。"
+  },
+  "author": "Deskit",
+  "homepage": "https://github.com/sanqian133/deskit-plugin-Dev-Utilities",
+  "version": "0.3.0",
+  "downloadUrl": "https://github.com/sanqian133/deskit-plugin-Dev-Utilities/releases/download/v0.3.0/com.deskit.dev-utilities-0.3.0.deskit",
+  "sha256": "e7f179d5b8058d8f05f719cf77ef54254742bb1c74e3c7776151ab9c2ebd0245",
+  "deskitEngine": "^0.2.0",
+  "icon": "lucide:wrench",
+  "categories": ["utilities"]
+}
