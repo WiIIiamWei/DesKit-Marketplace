@@ -58,9 +58,9 @@
       },
       "author": "DesKit",
       "homepage": "https://github.com/Apprentice-Geo/deskit-plugin-random-numbers-generator",
-      "version": "0.1.0",
-      "downloadUrl": "https://github.com/Apprentice-Geo/deskit-plugin-random-numbers-generator/releases/download/v0.1.0/com.deskit.random-numbers-generator-0.1.0.deskit",
-      "sha256": "1abf29f9de02fcbdbb02ec51fd59f2e72f08fedfe3b0006b9fb440c69c90816c",
+      "version": "0.1.1",
+      "downloadUrl": "https://github.com/Apprentice-Geo/deskit-plugin-random-numbers-generator/releases/download/v0.1.1/com.deskit.random-numbers-generator-0.1.1.deskit",
+      "sha256": "5f541c97e564347a5156797b9c8de91fe80bf6a59b37e5bfd094271749c63595",
       "deskitEngine": "^0.2.0",
       "icon": "lucide:dices",
       "categories": [
